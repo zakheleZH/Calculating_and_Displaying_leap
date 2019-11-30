@@ -33,7 +33,7 @@
 </form>
 <?php
 
-if(isset($_POST['submit']))// chicking if the submit button is chick
+if(isset($_POST['submit']))// chicking if the submit button is click
 {
 	$year = $_POST['year']; //accepting and storing a year from the form
 
